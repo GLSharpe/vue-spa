@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a97aaf1-9622-4eb7-9723-f79405f5f416" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/java/com.company/DriverBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/company/DriverBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.company/PortalHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/company/PortalHomepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/com.company/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/com/company/ProductPage.java" afterDir="false" />
-    </list>
+    <list default="true" id="7a97aaf1-9622-4eb7-9723-f79405f5f416" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,37 +114,6 @@
               <item name="GoMediaDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoMediaDemo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GoMediaDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoMediaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoMediaDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoMediaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoMediaDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoMediaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoMediaDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoMediaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoMediaDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoMediaDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -160,7 +125,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581787705153" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581787768965" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -274,7 +239,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
